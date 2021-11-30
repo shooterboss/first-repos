@@ -1,13 +1,19 @@
 p{
     color: brown;
     background-color: chartreuse;
+    text-align: center;
 }
 h1{
     color: chartreuse;
+    text-align: center;
 }
 h4{
     color: crimson;
+    text-align: center
 }
 .x{
     color: darkgreen;
-}
+    background-color: darkmagenta;
+    text-align: center;
+   
+    
